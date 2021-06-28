@@ -1,16 +1,15 @@
-### Hi there 👋
+# &#60; Amandinha /&#62;
 
-<!--
-**amandasdn/amandasdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonada por tecnologia, músicas, livros, jogos, filmes, séries, animais de estimação e viagens.
 
-Here are some ideas to get you started:
+- 🌸 22 anos
+- 📚 Engenharia de Software
+- 👩🏽‍💻 Desenvolvedora & Líder Técnica
+- 🧡 Trabalhando atualmente na Sinqia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`C#, .Net Core, Azure DevOps, CI/CD, APIs REST, SQL, JavaScript, HTML, CSS, Git Flow, Scrum etc.`
+
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Nascimento-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandasdn/)](https://www.linkedin.com/in/amandasdn/) 
+[![Instagram Badge](https://img.shields.io/badge/-@mands.q-d83268?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mands.q/)](https://www.instagram.com/mands.q/) 
+[![Gmail Badge](https://img.shields.io/badge/-asdn.amanda@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asdn.amanda@gmail.com)](asdn.amanda@gmail.com)
+[![Bow Studios Badge](https://img.shields.io/badge/-Bow%20Studios-1e1e1e?style=flat-square&logoColor=white&link=http://bowstudios.atwebpages.com/)](http://bowstudios.atwebpages.com/)
