@@ -1,6 +1,6 @@
 # &#60; Amandinha /&#62;
 
-Apaixonada por tecnologia, músicas, livros, jogos, filmes, séries, animais de estimação e viagens.
+Apaixonada por tecnologia, jogos, animais de estimação e viagens.
 
 - 🌸 22 anos
 - 📌 São Paulo, SP
