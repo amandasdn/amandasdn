@@ -5,7 +5,7 @@ Apaixonada por tecnologia, jogos, animais de estimação e viagens.
 - 🌸 22 anos
 - 📌 São Paulo, SP
 - 📚 Engenharia de Software
-- 👩🏽‍💻 Desenvolvedora & Líder Técnica
+- 👩🏽‍💻 Líder Técnica e Desenvolvedora
 - 🧡 Trabalhando atualmente na [Sinqia](https://www.sinqia.com.br/)
 
 `C#, .Net Core, Azure DevOps, CI/CD, APIs REST, SQL, JavaScript, HTML, CSS, Git Flow, Scrum etc.`
