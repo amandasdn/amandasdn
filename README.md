@@ -1,7 +1,7 @@
 # &#60; Amandinha /&#62;
 
 <div>🌸 Apaixonada por tecnologia, jogos, animais de estimação e viagens.</div>
-<div>🧡 Líder técnica e desenvolvedora na <a href="https://www.sinqia.com.br/" target="_blank">Sinqia</a>.</div>
+<div>💚 Engenheira de Software na <a href="https://www.stone.com.br" target="_blank">Stone</a>.</div>
 <br />
 
 | C# | .NET Core | WebAPI | CI/CD  | Git | SQL | JavaScript | HTML | CSS | ...
