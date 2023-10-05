@@ -5,7 +5,7 @@
 <div>💚 Engenheira de Software na <a href="https://www.stone.com.br" target="_blank">Stone</a>.</div>
 <br />
 
-| C# | .NET Core | WebAPI | APIs REST | CI/CD | Git | SQL | NoSQL | Scrum | ...
+| C# | .NET | WebAPI | APIs REST | CI/CD | Git | SQL | NoSQL | Scrum | ...
 |--|--|--|--|--|--|--|--|--|--|
 
 [![Instagram Badge](https://img.shields.io/badge/-@mands.q-d83268?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mands.q/)](https://www.instagram.com/mands.q/)
