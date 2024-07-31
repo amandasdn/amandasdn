@@ -1,7 +1,7 @@
 # &#60; Amandinha /&#62;
 
 <div>🌸 Passionate about technology, gaming, pets, and travel.</div>
-<div>🎓 Holds a postgraduate degree in Software Engineering and a bachelor's degree in Systems Analysis and Development, both from UNICSUL.</div>
+<div>🎓 Holds a postgraduate degree in Software Engineering and a degree in Systems Analysis and Development, both from UNICSUL.</div>
 <div>💚 Currently working as a Software Engineer at <a href="https://www.stone.com.br" target="_blank">Stone</a>.</div>
 <br />
 
