@@ -5,8 +5,8 @@
 <div>💚 Currently working as a Software Engineer at <a href="https://www.stone.com.br" target="_blank">Stone</a>.</div>
 <br />
 
-| C# | .NET | Microservices | Azure | Observability | CI/CD | Git | SQL | NoSQL | Scrum | ...
-|--|--|--|--|--|--|--|--|--|--|--|
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,cs,azure,docker,kubernetes,datadog,sonarqube,git,sqlserver,mongodb,redis,html,css&titles=true)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Nascimento-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandasdn/)](https://www.linkedin.com/in/amandasdn/)
-[![Instagram Badge](https://img.shields.io/badge/-@mands.q-d83268?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mands.q/)](https://www.instagram.com/mands.q/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-14181c?style=for-the-badge&logo=Linkedin&logoColor=0a66c2&link=https://www.linkedin.com/in/amandasdn/)](https://www.linkedin.com/in/amandasdn/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-14181c?style=for-the-badge&logo=Instagram&logoColor=d83268&link=https://www.instagram.com/mands.q/)](https://www.instagram.com/mands.q/)
+[![Instagram Badge](https://img.shields.io/badge/-letterboxd-14181c?style=for-the-badge&logo=letterboxd&logoColor=green&link=https://letterboxd.com/amandasdn/)](https://letterboxd.com/amandasdn/)
