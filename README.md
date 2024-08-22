@@ -5,7 +5,7 @@
 <div>💚 Currently working as a Software Engineer at <a href="https://www.stone.com.br" target="_blank">Stone</a>.</div>
 <br />
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,cs,azure,docker,kubernetes,datadog,sonarqube,git,sqlserver,mongodb,redis,html,css&titles=true)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,azure,docker,kubernetes,datadog,sonarqube,git,sqlserver,mongodb,redis,html,css&titles=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-14181c?style=for-the-badge&logo=Linkedin&logoColor=0a66c2&link=https://www.linkedin.com/in/amandasdn/)](https://www.linkedin.com/in/amandasdn/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-14181c?style=for-the-badge&logo=Instagram&logoColor=d83268&link=https://www.instagram.com/mands.q/)](https://www.instagram.com/mands.q/)
